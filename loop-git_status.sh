@@ -2,8 +2,6 @@
 
 # ./loop-git_status [폴더경로]
 
-NowTime='date'
-
 while :
 do
 
