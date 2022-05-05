@@ -1,8 +1,8 @@
-## display-loading.sh
+## display-progress.sh
 
 별(*) 모양의 진행중 표시가 계속 돌아가는 스크립트
 
-**usage** : `./display-loading.sh`
+**usage** : `./display-progress.sh`
 
 ## loop-git_status.sh
 
